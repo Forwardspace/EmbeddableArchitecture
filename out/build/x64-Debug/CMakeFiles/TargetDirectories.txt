@@ -1,0 +1,8 @@
+C:/Users/Juraj/source/repos/EmbeddableArchitecture/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Juraj/source/repos/EmbeddableArchitecture/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Juraj/source/repos/EmbeddableArchitecture/out/build/x64-Debug/EmbeddableArchitecture/CMakeFiles/EA.dir
+C:/Users/Juraj/source/repos/EmbeddableArchitecture/out/build/x64-Debug/EmbeddableArchitecture/CMakeFiles/edit_cache.dir
+C:/Users/Juraj/source/repos/EmbeddableArchitecture/out/build/x64-Debug/EmbeddableArchitecture/CMakeFiles/rebuild_cache.dir
+C:/Users/Juraj/source/repos/EmbeddableArchitecture/out/build/x64-Debug/EATest/CMakeFiles/rebuild_cache.dir
+C:/Users/Juraj/source/repos/EmbeddableArchitecture/out/build/x64-Debug/EATest/CMakeFiles/EAT.dir
+C:/Users/Juraj/source/repos/EmbeddableArchitecture/out/build/x64-Debug/EATest/CMakeFiles/edit_cache.dir
